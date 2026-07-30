@@ -21,4 +21,3 @@ The SVM pipeline was evaluated on a 20% test split, yielding the following metri
 ## Files Included
 * `used_device_data.xls` - The raw dataset.
 * `preprocessed_used_device_data.xls` - The cleaned and preprocessed dataset.
-* `svm_predictions_plot.png` - Scatter plot visualization of actual vs. predicted prices.
